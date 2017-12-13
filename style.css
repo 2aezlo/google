@@ -17,3 +17,7 @@ body {
 .l {
  color:  #34A853;
 }
+
+.google {
+ display: inline-block;
+}
