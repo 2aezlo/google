@@ -19,5 +19,5 @@ body {
 }
 
 .google {
- display: inline;
+ display: inline-block;
 }
